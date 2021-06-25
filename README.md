@@ -1,6 +1,8 @@
 # iTerm Settings
 
-These are the settings I use in the terminal app [iTerm 2](https://iterm2.com), as well as a basic zsh rc file I use for zsh.
+These are the settings I use in the terminal app [iTerm 2](https://iterm2.com), as well as a basic .zshrc file I use for zsh. The settings a pretty basic - just a custom prompt, custom color scehem, and case-insensitive tab completion. 
+
+![](iterm_screenshot.png)
 
 ## iTerm Profile
 
